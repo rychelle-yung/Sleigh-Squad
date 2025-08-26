@@ -16,7 +16,7 @@ def read_books_data():
     try:
         # List to store book data
         books_data = []
-        file_path = "books_22031827.txt"
+        file_path = "books.txt"
         with open(file_path, "r") as file:
             # Loop through each line in the file and create a dictionary for each book
             for line in file:
@@ -43,7 +43,7 @@ def read_books_data():
 # Function that allow editing/writing book data to the text file
 def write_books_data(books_data):
     try:
-        file_path = "books_22031827.txt"
+        file_path = "books.txt"
         with open(file_path, "w") as file:
             # Writing each book's information to the file
             for book_info in books_data:
