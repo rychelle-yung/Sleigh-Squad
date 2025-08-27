@@ -5,7 +5,10 @@
 ![Data](https://img.shields.io/badge/Storage-TXT%20File-green)
 ![Project](https://img.shields.io/badge/Category-Book%20Management-orange)
 
-The **Sleigh Squad Book Management System** is a user-friendly, text-based application designed to help individuals track and manage their personal book collections with ease. Whether you're an avid reader or simply want to organize your bookshelf, this Python-powered tool allows you to add, edit, remove, view, and search book entries — all stored in a local `.txt` file for convenience and persistence.
+## 📌 Introduction
+
+**Sleigh Squad Book Management System** is a Python console-based tool for organizing personal book collections.  
+It is a user-friendly, text-based application designed to help individuals track and manage their personal book collections with ease. Whether you're an avid reader or simply want to organize your bookshelf, this Python-powered tool allows you to add, edit, remove, view, and search book entries — all stored in a local `.txt` file for convenience and persistence.
 
 ---
 
